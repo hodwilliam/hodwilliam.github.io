@@ -4,13 +4,36 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is William HODONOU. I am from Benin republic and I have the following background:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Education
 
-What else do you need?
+I had my undergraduate education in Ghana , West Africa . I studied for my bachelor’s 
+degree in Actuarial Science at the Kwame Nkrumah University of Science and Technology,
+(2009 - 2013) .I hold two master’s degrees, earned from the University ofReims in France. 
+The first one is in Economic, Environment and SustainableDevelopment, and the second is 
+in Statistics for Evaluation and prospects analysis.
 
-### my history
+# Career History
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have worked in many different industries.As assistant to evaluation teams, I have worked
+to supervise surveyors, to collect data and to process data depending on the size of the 
+operation. For example, during the final evaluation of the first phase of Beninese 
+Scouting project “Jeux sans taboo”, supported by the Netherlands Embassy in Benin, I had 
+collected data and processed them using MS Excel. The lead consultant used this 
+database for analysis, I helped him do graphics and other basic analysis.
+
+# Key Skills
+
+I have multiple experience and expert knowledge in 
+* MS Excel VBA  
+* SQL 
+* R Studio 
+* R Shiny  
+* Plotly   
+* SAS 
+* Python(Jupyter,Rodeo,Spider)
+* Latex 
+* EMBLEM
+* JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
+* Micro-strategy  * Google Analytics   * Piktochart 
