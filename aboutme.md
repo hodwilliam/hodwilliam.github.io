@@ -22,18 +22,3 @@ operation. For example, during the final evaluation of the first phase of Benine
 Scouting project “Jeux sans taboo”, supported by the Netherlands Embassy in Benin, I had 
 collected data and processed them using MS Excel. The lead consultant used this 
 database for analysis, I helped him do graphics and other basic analysis.
-
-# Key Skills
-
-I have multiple experience and expert knowledge in 
-* MS Excel VBA  
-* SQL 
-* R Studio 
-* R Shiny  
-* Plotly   
-* SAS 
-* Python(Jupyter,Rodeo,Spider)
-* Latex 
-* EMBLEM
-* JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
-* Micro-strategy  * Google Analytics   * Piktochart 
