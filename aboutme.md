@@ -4,8 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+
+[Current Resume](tt.pdf)  
 My name is William HODONOU. I am from Benin republic and I have the following background:
-[Current Resume](tt.pdf)
+
 
 # Education
 
