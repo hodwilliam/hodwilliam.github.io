@@ -5,12 +5,10 @@ title: About me
 
 
 [Current Resume](tt.pdf)  
-My name is William HODONOU. I am from Benin republic and I have the following background:
-
+My name is William HODONOU. I am from Benin republic and I define myself as
 Economist/Data Scientist with experience transforming, visualizing, and modeling data to 
-communicate results. Adaptive learner with strong analytical and technical abilities able to 
-communicate results to both a technical and non-technical audience. 
-Willing to take on new situations and tasks independently or as a team member.
+communicate results. Enthusiastic learner I am Willing to take on new situations and tasks 
+independently or as a team member. 
 
 I had my undergraduate education in Ghana , West Africa . I studied for my bachelor’s 
 degree in Actuarial Science at the Kwame Nkrumah University of Science and Technology,
