@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evaluation and intensification of sustainability in Benin's agriculture
+title: Evaluation and intensification
 subtitle: or objectively measuring art
 image: /img/sus_intens.jpg
 ---
