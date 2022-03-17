@@ -25,7 +25,7 @@ description: Evaluation and data analyst turned data scientist
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Learn R Shiny: "lectures"
+    - Learn Probability: "lectures"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Projects: 
     
