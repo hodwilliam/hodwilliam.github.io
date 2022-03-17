@@ -1,7 +1,9 @@
 
 ---
-Learn Probability
+layout: page
+title: Learn Probability
 ---
+
 
 
 [Lecture 1](/probabilité_slide/cours_proba1.pdf)  
