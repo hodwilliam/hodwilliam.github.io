@@ -5,17 +5,11 @@ title: About me
 
 
 [Current Resume](tt.pdf)  
-My name is William HODONOU. I am from Benin republic and I define myself as
-Economist/Data Scientist with experience transforming, visualizing, and modeling data to 
-communicate results. Enthusiastic learner I am Willing to take on new situations and tasks 
-independently or as a team member. 
+I am a statistician with a strong academic foundation and many years of professional experience in data analysis, impact evaluation, and socioeconomic research. I hold two master’s degrees—one in Statistics for Evaluation and Prospective and another in Economy, Environment, and Sustainable Development—from the Université de Reims Champagne-Ardenne, France.
 
-I had my undergraduate education in Ghana , West Africa . I studied for my bachelor’s 
-degree in Actuarial Science at the Kwame Nkrumah University of Science and Technology,
-(2009 - 2013) .I hold two master’s degrees, earned from the University of Reims in France. 
-The first one is in Economic, Environment and SustainableDevelopment, and the second is 
-in Statistics for Evaluation and prospects analysis.
+My expertise spans conducting impact evaluations, leading data collection projects and designing and managing national accounts. I work as an Economist Statistician at the National Institute of Statistics and Demography, where I contribute to producing national accounts, socio-economic surveys, and environmental statistics. My consultancy roles have included working on diverse projects such as evaluating agricultural, public health interventions, and assessing the socioeconomic impacts of policies.
 
-I have worked in many different industries. As assistant to evaluation teams, I have worked
-to supervise surveyors, to collect data and to process data depending on the size of the 
-operation. 
+A proficient user of tools like Python, R, Stata, and SurveyCTO, I specialize in statistical modeling, public policy impact assessment, and data cleaning automation. I am fluent in both French and English, which allows me to work effectively in multilingual and multicultural environments.
+With a commitment to leveraging data for impactful policy and decision-making, I combine technical expertise with a passion for sustainable development.
+
+
