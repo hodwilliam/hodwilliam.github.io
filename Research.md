@@ -5,7 +5,7 @@ title: Research
 
 
 # Work-in-progress
- * \*Adaptation to climate change and subjective wellbeing*\
+ * _Adaptation to climate change and subjective wellbeing_
 
 Using cross-section data from the Harmonized Survey on Households Living Standards
 (EHCVM) this study examines the factors that motivate households’ decisions
