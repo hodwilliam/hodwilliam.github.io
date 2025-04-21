@@ -5,7 +5,8 @@ title: Research
 
 
 # Work-in-progress
- * Adaptation to climate change and subjective wellbeing
+ * Adaptation to climate change and subjective wellbeing  
+
 Using cross-section data from the Harmonized Survey on Households Living Standards
 (EHCVM) this study examines the factors that motivate households’ decisions
 to adapt to climate change, as well as the impact of adaptation on households’ subjective
