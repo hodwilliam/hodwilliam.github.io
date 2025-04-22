@@ -23,8 +23,9 @@ description: Evaluation and data analyst turned data scientist
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  
   Research: "Research"
+  Curriculum Vitae: "aboutme"
   Resources:
     - Learn Probability: "lectures"
     - Learn Kobotoolbox: "kobotoolbox"
