@@ -16,5 +16,5 @@ I am an economist-statistician and data expert with interests spanning multiple 
 * Statistical Analysis 
 
 # Contact
-E-mail: habwilli@yahoo.com    
-Linkedin: https://www.linkedin.com/in/hodonouwilliam/
+* E-mail: habwilli@yahoo.com    
+* Linkedin: https://www.linkedin.com/in/hodonouwilliam/
